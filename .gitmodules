@@ -1,4 +1,4 @@
 [submodule "wiringOP"]
 	path = wiringOP
-	url = https://github.com/orangepi-xunlong/wiringOP
+	url = https://github.com/oguegan/wiringOP.git
 	branch = next
